@@ -1,9 +1,9 @@
-Testing out cpp node addons
+Testing out cpp node addonsgit
 
 **Installation**
 
 ```
-git clone https://github.com/jdrain/regex_node_addon.git
+$ git clone https://github.com/jdrain/regex_node_addon.git
 ```  
 
 We need node-gyp to build node cpp addons
@@ -23,7 +23,7 @@ $ node-gyp build
 **Run**
 
 ```
-$node
+$ node
 > const re_match = require("./build/Release/regex_matching.node")
 > re_match.regex_matching(<str>)
 ```
