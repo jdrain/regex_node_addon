@@ -1,4 +1,4 @@
-Testing out cpp node addonsgit
+Testing out cpp node addons
 
 **Installation**
 
